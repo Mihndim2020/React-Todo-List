@@ -6,6 +6,9 @@ This is an app that enables you to organize you daily tasks build with React, a 
 ## Built With
 
 - Major languages
+ - JavaScrpt ES6
+ - HTML 5
+ - CSS3
 - Frameworks
 - Technologies used
 
