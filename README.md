@@ -10,7 +10,8 @@ This is an app that enables you to organize you daily tasks build with React, a 
  - HTML 5
  - CSS3
 ### Frameworks
-- Technologies used
+- React JS
+### Technologies used
 
 ## Live Demo (if available)
 
