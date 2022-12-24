@@ -70,7 +70,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - MDN
-- Inspiration
+- FreeCodeCamp
 - Microverse community
 - etc
 
