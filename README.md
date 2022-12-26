@@ -26,6 +26,9 @@ This is an app that enables you to organize you daily tasks build with React, a 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+  - Node JS
+  - VS code(any IDE)
+  - Browser
 
 ### Setup
 
