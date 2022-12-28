@@ -55,7 +55,6 @@ Coming soon
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 
 ## 🤝 Contributing
 
