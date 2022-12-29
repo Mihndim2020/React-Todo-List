@@ -52,9 +52,6 @@ Coming soon
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-
 
 ## 🤝 Contributing
 
