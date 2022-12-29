@@ -54,7 +54,7 @@ Coming soon
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+
 
 ## 🤝 Contributing
 
