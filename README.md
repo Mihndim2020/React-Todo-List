@@ -44,9 +44,7 @@ Not yet available for this project
 ### Deployment
 Coming soon
 
-
-
-## Authors
+## Author
 
 👤 **Author1**
 
