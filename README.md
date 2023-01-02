@@ -37,6 +37,7 @@ To get a local copy up and running follow these simple example steps.
 - Use npm start to start the project
 
 ### Usage
+- Enter  npm start in the terminal after installing dependencies
 
 ### Run tests
 Not yet available for this project
