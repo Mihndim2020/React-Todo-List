@@ -45,9 +45,7 @@ Not yet available for this project
 ### Deployment
 Coming soon
 
-## Author
-
-👤 **Auth1**
+👤 ## Author
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
