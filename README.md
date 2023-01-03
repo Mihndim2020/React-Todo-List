@@ -47,7 +47,7 @@ Coming soon
 
 ## Author
 
-👤 **Author1**
+👤 **Auth1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
