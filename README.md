@@ -18,7 +18,7 @@ This is an app that enables you to organize you daily tasks build with React, a 
 
 ## Live Demo (Comming soon)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://www.google.com)
 
 
 ## Getting Started
