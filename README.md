@@ -24,7 +24,8 @@ This is an app that enables you to organize you daily tasks build with React, a 
 
 ## Getting Started
 
-
+- Use npm install to install dependencies
+- Use npm start to start the project
 
 ### Prerequisites
   - Node JS
