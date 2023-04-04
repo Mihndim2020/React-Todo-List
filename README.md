@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # React-Todo-List
-
+This is an app that enables you to organize you daily tasks build with React, a JavaScript Library. This app allows you to add, delete, and drag and drop tasks. 
 
 ## Built With
 
