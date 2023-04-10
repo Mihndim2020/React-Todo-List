@@ -70,7 +70,7 @@ Give a ⭐️ if you like this project!
 - FreeCodeCamp
 - Microverse community
 - W3Schools
-
+- Tunga Academy
 
 
 ## 📝 License
