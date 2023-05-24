@@ -72,7 +72,6 @@ Give a ⭐️ if you like this project!
 - Microverse community
 - W3Schools
 - Tunga Academy
-- Udemy
 
 
 ## 📝 License
