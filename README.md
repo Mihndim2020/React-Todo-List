@@ -72,6 +72,7 @@ Give a ⭐️ if you like this project!
 - Microverse community
 - W3Schools
 - Udemy
+- Coursera
 
 ## 📝 License
 
