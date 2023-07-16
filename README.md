@@ -36,7 +36,7 @@ This is an app that enables you to organize you daily tasks build with React, a 
 
 ### Install
 - Use npm install to install dependencies
-- Use npm start to start the project
+
 
 ### Usage
 - Enter  npm start in the terminal after installing dependencies
