@@ -14,7 +14,7 @@ This is an app that enables you to organize you daily tasks build with React, a 
 ### Technologies used
 - GIT
 - GitHub
-- VS code
+- Visual Studio code
 
 ## Live Demo (Comming soon)
 
