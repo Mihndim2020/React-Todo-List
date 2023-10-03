@@ -71,7 +71,8 @@ Give a ⭐️ if you like this project!
 - FreeCodeCamp
 - Microverse community
 - W3Schools
-
+- Udemy
+- Coursera
 
 ## 📝 License
 
